@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-24T17:17:53 ICT" name="Default suite" finished-at="2022-05-24T17:18:23 ICT" duration-ms="29919">
+    <groups>
+    </groups>
+    <test started-at="2022-05-24T17:17:53 ICT" name="Default test" finished-at="2022-05-24T17:18:23 ICT" duration-ms="29919">
+      <class name="FirstTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:FirstTestNG@7ce3cb8e]" started-at="2022-05-24T17:17:53 ICT" name="setUp" finished-at="2022-05-24T17:17:57 ICT" duration-ms="3806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginAccount()[pri:0, instance:FirstTestNG@7ce3cb8e]" started-at="2022-05-24T17:17:57 ICT" name="loginAccount" finished-at="2022-05-24T17:18:03 ICT" duration-ms="6311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAccount -->
+        <test-method signature="updateConfig_paybytoken()[pri:5, instance:FirstTestNG@7ce3cb8e]" started-at="2022-05-24T17:18:03 ICT" name="updateConfig_paybytoken" finished-at="2022-05-24T17:18:20 ICT" duration-ms="16173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateConfig_paybytoken -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:FirstTestNG@7ce3cb8e]" started-at="2022-05-24T17:18:20 ICT" name="afterTest" finished-at="2022-05-24T17:18:23 ICT" duration-ms="3577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- FirstTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
